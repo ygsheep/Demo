@@ -32,3 +32,6 @@
 *.app
 
 .git/
+
+cmake_build_Debug/
+build/
