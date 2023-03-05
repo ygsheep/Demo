@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yysheep/CPPDemo/C++20_test/cmake_build_Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/project.dir/main.cpp.o -c /home/yysheep/CPPDemo/C++20_test/main.cpp",
+  "file": "/home/yysheep/CPPDemo/C++20_test/main.cpp"
+}
+]
