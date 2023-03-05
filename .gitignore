@@ -33,5 +33,5 @@
 
 .git/
 
-cmake_build_Debug/
-build/
+cmake_build_Debug/*
+build/*
